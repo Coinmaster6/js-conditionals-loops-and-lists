@@ -90,4 +90,8 @@ function example_string_to_list() {
 
 if ( (greetingList.length >= 2))
     print(greetingList) 
+} 
+
+function aufgabe_13() {
+    
 }
